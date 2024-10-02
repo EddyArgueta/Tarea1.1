@@ -11,5 +11,5 @@ void main() {
     }
   }
 
-  print('El numero más pequeño es: $minimo');
+  print('El número más pequeño es: $minimo');
 }
